@@ -1,13 +1,101 @@
-body {
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: "Nunito", sans-serif;
+}
+.app {
+  background-color: rgba(0, 0, 0, 0.404);
+}
+
+main {
+  min-height: 100vh;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 0.9)
+  );
+  padding: 25px;
+}
+
+.search-box {
+  width: 100%;
+  margin: 0 0 75px;
+}
+
+.search-box .search-bar {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  appearance: none;
+  background: none;
+  border: none;
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0px 0px 16px 16px;
+  margin-top: -25px;
+  color: #313131;
+  font-size: 20px;
+  text-align: center;
+}
+
+.search-box .search-bar:focus {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.resultPart {
+  display: contents;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 2px solid rgb(33, 33, 43);
+  border-radius: 5rem;
+  padding: 5px;
+  margin: 5px;
+}
+
+.icon {
+  text-align: justify;
+  width: 100%;
+  font-weight: 900;
+  font-size: 1.3rem;
+}
+
+.icon img {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+}
+
+.icon.big img {
+  position: static;
+  /* top: -50px; */
+  vertical-align: middle;
+  height: 450px;
+  width: 450px;
+}
+
+.data {
+  width: 200px;
+  text-align: end;
+  padding-right: 10px;
+  font-weight: 900;
+  font-size: 1.3rem;
+}
+
+.place {
+  font-size: 50px;
+  text-align: center;
+}
+
+.desc {
+  text-transform: capitalize;
+  text-align: center;
 }
