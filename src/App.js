@@ -29,7 +29,7 @@ function App() {
       const latitude = position.coords.latitude;
       const longitude = position.coords.longitude;
       setLocation(`${latitude},${longitude}`);
-      //console.log(geolocation[0] + "asd  " + geolocation[1]);
+
       axios
         .get(
           `${api.base}weather?lat=${latitude}&lon=${longitude}&appid=${api.key}&units=${api.units}&lang=${api.lang}`
