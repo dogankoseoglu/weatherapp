@@ -2,7 +2,6 @@ import "./App.css";
 import temp from "./Components/Assets/thermometer-simple-light.svg";
 import wind from "./Components/Assets/wind-light.svg";
 import humidity from "./Components/Assets/drop-light.svg";
-import uv from "./Components/Assets/sun-dim-light.svg";
 import axios from "axios";
 import React, { useState } from "react";
 
