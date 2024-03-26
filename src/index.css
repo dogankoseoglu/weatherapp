@@ -10,15 +10,16 @@ body {
   font-family: "Nunito", sans-serif;
 }
 .app {
-  background-color: rgba(0, 0, 0, 0.404);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 main {
   min-height: 100vh;
   background-image: linear-gradient(
     to bottom,
+    rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.1),
-    rgba(0, 0, 0, 0.9)
+    rgba(0, 0, 0, 0.5)
   );
   padding: 25px;
 }
@@ -76,7 +77,6 @@ main {
 
 .icon.big img {
   position: static;
-  /* top: -50px; */
   vertical-align: middle;
   height: 450px;
   width: 450px;

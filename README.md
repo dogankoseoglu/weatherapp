@@ -12,8 +12,8 @@ Data **Axios** ile çekilir, olası hatalar yakalanır.
 
 ## Kurulumu
 
-`npm i` yaparak gerekli paketleri yükleyin.
-`npm start` yaparak sunucuyu çalıştırın.
-http://localhost:3000 adresinden uygulamaya erişebilirsiniz.
+1. `npm i` yaparak gerekli paketleri yükleyin.
+2. `npm start` yaparak sunucuyu çalıştırın.
+3. http://localhost:3000 adresinden uygulamaya erişebilirsiniz.
 
 ## [Demo için tıklayın](https://dogankoseoglu.github.io/weatherapp)
