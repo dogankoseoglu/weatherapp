@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.dc05d38a.css",
-    "main.js": "/weatherapp/static/js/main.b0f354dd.js",
+    "main.css": "/weatherapp/static/css/main.356d8d19.css",
+    "main.js": "/weatherapp/static/js/main.faf74bad.js",
     "static/js/453.63261c35.chunk.js": "/weatherapp/static/js/453.63261c35.chunk.js",
-    "static/media/sun-dim-light.svg": "/weatherapp/static/media/sun-dim-light.b3cdabc1d5d642b7ce80d1658aad7b10.svg",
-    "static/media/wind-light.svg": "/weatherapp/static/media/wind-light.9e2d3ead14e8c26b9d95e23e8fbae611.svg",
-    "static/media/thermometer-simple-light.svg": "/weatherapp/static/media/thermometer-simple-light.8925ba665546acc073ea265ce971c428.svg",
-    "static/media/drop-light.svg": "/weatherapp/static/media/drop-light.356ef786486676e1fea5b124accd766f.svg",
+    "static/media/sun-dim-light.svg": "/weatherapp/static/media/sun-dim-light.2ec98b2272f82c74f8bff94b248c98d6.svg",
+    "static/media/wind-light.svg": "/weatherapp/static/media/wind-light.2a5045206aa4b1039ce4bdf42cafd64f.svg",
+    "static/media/thermometer-simple-light.svg": "/weatherapp/static/media/thermometer-simple-light.8ccdad2c405460fd217df84dda2f9e6b.svg",
+    "static/media/drop-light.svg": "/weatherapp/static/media/drop-light.cad21d38c6a9538e6b35aa9f89fe20bf.svg",
     "index.html": "/weatherapp/index.html",
-    "main.dc05d38a.css.map": "/weatherapp/static/css/main.dc05d38a.css.map",
-    "main.b0f354dd.js.map": "/weatherapp/static/js/main.b0f354dd.js.map",
+    "main.356d8d19.css.map": "/weatherapp/static/css/main.356d8d19.css.map",
+    "main.faf74bad.js.map": "/weatherapp/static/js/main.faf74bad.js.map",
     "453.63261c35.chunk.js.map": "/weatherapp/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc05d38a.css",
-    "static/js/main.b0f354dd.js"
+    "static/css/main.356d8d19.css",
+    "static/js/main.faf74bad.js"
   ]
 }
