@@ -126,13 +126,6 @@ function App() {
               </div>
               <div className="data">{weather.main.humidity}%</div>
             </div>
-            <div className="row">
-              <div className="icon">
-                <img src={uv} alt="temperature" />
-                Basınç
-              </div>
-              <div className="data">{weather.main.pressure}hPa</div>
-            </div>
           </div>
         ) : (
           ""
