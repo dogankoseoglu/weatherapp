@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.dc05d38a.css",
+    "main.js": "/weatherapp/static/js/main.b0f354dd.js",
+    "static/js/453.63261c35.chunk.js": "/weatherapp/static/js/453.63261c35.chunk.js",
+    "static/media/sun-dim-light.svg": "/weatherapp/static/media/sun-dim-light.b3cdabc1d5d642b7ce80d1658aad7b10.svg",
+    "static/media/wind-light.svg": "/weatherapp/static/media/wind-light.9e2d3ead14e8c26b9d95e23e8fbae611.svg",
+    "static/media/thermometer-simple-light.svg": "/weatherapp/static/media/thermometer-simple-light.8925ba665546acc073ea265ce971c428.svg",
+    "static/media/drop-light.svg": "/weatherapp/static/media/drop-light.356ef786486676e1fea5b124accd766f.svg",
+    "index.html": "/weatherapp/index.html",
+    "main.dc05d38a.css.map": "/weatherapp/static/css/main.dc05d38a.css.map",
+    "main.b0f354dd.js.map": "/weatherapp/static/js/main.b0f354dd.js.map",
+    "453.63261c35.chunk.js.map": "/weatherapp/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc05d38a.css",
+    "static/js/main.b0f354dd.js"
+  ]
+}
